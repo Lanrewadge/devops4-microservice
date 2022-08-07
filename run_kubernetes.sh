@@ -15,7 +15,7 @@ kubectl run udacitymicroservice\
 
 # Step 3:
 # List kubernetes pods
-
+kubectl get pods
 
 # Step 4:
 # Forward the container port to a host
