@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![Lanrewadge](https://circleci.com/gh/Lanrewadge/devops4-microservice.svg?style=svg)]
+https://app.circleci.com/pipelines/github/Lanrewadge/devops4-microservice
 
 ## Project Overview
 
